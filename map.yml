@@ -1,0 +1,4 @@
+map_name: imperialism_ffa
+games:
+- {game_name: Imperialism FFA, file_name: imperialism_ffa.xml}
+version: 0
